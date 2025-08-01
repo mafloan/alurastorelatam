@@ -2,9 +2,7 @@
 Desafío para la formación en Data Science de Alura Oracle
 Este reporte busca analizar el desempeño de las cuatro tiendas del Señor Juan. Se busca identificar: la tienda con mayor cantidad de ventas, el producto más y menos vendido, la calificación por parte de los clientes y el costo de de envío. 
 El análisis arrojó que la Tienda #2 tiene el mejor desempeño con  $1.116.343.500 y la Tienda #4 el más pobre con $1.038.375.700. El Gráfico 1 indica los máximos alcanzados por cada dependencia. 
-En lo relativo a venta de productos, podemos distinguir que el producto XXX es el más vendido y el producto XXX el menos vendido, correspondiendo a la categoría XX y XX respectivamente. Nos apoyamos en el gráfico 2.
-"Se recomienda implementar un programa de refuerzo escolar enfocado en Lengua y Literatura, además de estrategias para reducir el índice de ausencias en el turno de la tarde. El análisis también sugiere que la revisión de las actividades evaluativas podría contribuir a equilibrar los desempeños.
-En cuanto al promedio de envío por tienda, podemos indica
-Los clientes valoran la tienda XX 
+En lo relativo a venta de productos, podemos distinguir que el producto "Muebles" es el más vendido y el producto "Artículos para el Hogar el menos vendido de acuerdo a lo expuesto en el Gráfico 2 y 3. En cuanto, al costo de envío, la Tienda 1 lleva la delantera con el promedio en $26018.61 y en la última posición se encuentra la Tienda 4 con $23459.46, según lo indica el Gráfico 4. Por otra parte, todas las tiendas tienen un promedio una muy buena valoración y se posicionan de la siguiente manera, según el Gráfico 5:0  Tienda 3:4.05 puntos, Tienda 2: 4.04 putnos, Tienda 4: 4 puntos y Tienda 1:3.98 puntos.
 
-🏬 Tienda 4: .  asignatura, identificación de tendencias de mejora o disminución a lo largo del año, y correlación con la asistencia escolar."
+
+
